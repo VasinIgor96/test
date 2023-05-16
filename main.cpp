@@ -42,6 +42,7 @@ bool LogIn(fstream &file, string path, string login, string password)
     return false;
 }
 
+
 int main()
 {
 	fstream file;
